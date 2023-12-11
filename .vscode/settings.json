@@ -1,0 +1,15 @@
+{
+    "cSpell.language": "en,ru",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.defaultInterpreterPath": "${workspaceFolder}/Scripts/python.exe",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "cSpell.words": [
+        "bigram",
+        "bigrams",
+        "lemmatize",
+        "lemmatized",
+        "lemmatizer",
+        "Mystem",
+        "pymystem"
+    ]
+}
